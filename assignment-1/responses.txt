@@ -1,0 +1,11 @@
+The internet is a network made up of many networks around the world and the web is the collection of information you can access
+via the internet
+
+Every device that is connected to the internet has an Internet Protocol address. The device you are using sends packets of
+information that then reach Domain Name Servers that point the packets in the right direction. They then hit another DNS and 
+so on and so forth till they reach their destination. Once that server recieves your packet it sends information back.
+
+A directory is basically a filing system, kind of like a folder, for all of the files that go into it.
+
+Using a VCS is benificial becasue it allows someone else to work along side you while you are coding to identifty mistakes you
+might have made. It also allows for you to go back and delete the issue/ fix the issue with out having to delete everything.
