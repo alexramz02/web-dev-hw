@@ -1,8 +1,8 @@
 # Heading 1
-## Heading 2
-### Heading 3
-[Netflix](https://www.netflix.com/)
+## Alex Ramsey
 
-[My response](./response.txt)
+I decided to take this class to understand how to build a website. I do photography and videography side work and I'd love
+to build my own website.
 
-![Screenshot](./images/assignment-2.png)
+I have already learned how to create headings, add a url and add a screenshot. When I started this class I had zero previous
+knowledge of how to code.
