@@ -9,6 +9,6 @@ knowledge of how to code.
 
 [Netflix](https://www.netflix.com/)
 
-[My response](./response.txt)
+[My response](./responses.txt)
 
 ![Screenshot](./images/assignment-2.png)
