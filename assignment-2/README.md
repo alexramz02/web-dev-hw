@@ -6,3 +6,9 @@ to build my own website.
 
 I have already learned how to create headings, add a url and add a screenshot. When I started this class I had zero previous
 knowledge of how to code.
+
+[Netflix](https://www.netflix.com/)
+
+[My response](./response.txt)
+
+![Screenshot](./images/assignment-2.png)
