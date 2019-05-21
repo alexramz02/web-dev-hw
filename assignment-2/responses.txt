@@ -1,0 +1,16 @@
+One way data travels is from one server to another server
+via light through a fiber optic cable.
+
+The DNS stores IP address for websites. When someone uses
+the internet and types in a website, their computer asks
+a DNS what the IP address of that website is. The DNS
+then sends back a response and your computer then redirects
+to that website.
+
+A cookie is a small amount of data a website leaves on the
+users computer to used to remember information about that
+user. It can be used to tailor a page to the user such as,
+when a person logs into a social media account.
+
+The three basic components of a URL are the protocol, domain
+name, and the path.
