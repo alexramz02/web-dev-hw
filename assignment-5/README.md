@@ -1,0 +1,3 @@
+1. There can only be one of each. The head contains all of meta data for a web page such as, the title, the author, the publication date, and a more. All of which tell the web page how to format. The body contains all of the information that will render on the page. The meat and potatoes of the webpage if you will.
+2. Structural markup is how the page will be formatted. Things like the headings, paragraphs, lists, and breaks. Semantic markup is used to reinforce the meaning of the text. This might include things like emphasis, strong text, quotations, address, etc.
+3. I chose to work in order of steps on the assignment. I felt like this helped keep things more organized and easier to understand.
