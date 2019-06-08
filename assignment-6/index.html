@@ -7,11 +7,7 @@
     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
     <style>
-         table, td, th {
-            border: 1px solid black;
-            border-collapse: collapse;
-            padding: 10px;
-        }
+         table, td, th {border: 1px solid black; border-collapse: collapse; padding: 10px;}
     </style>
   </head>
   <body>
@@ -44,7 +40,21 @@
         <th scope="col">9:00am to 10:00pm</th>
         <th scope="col">9:00am to 10:00pm</th>
         <th scope="col">Closed</th>
-
     </table>
+    <p>Have a question or a comment?</p>
+    <form>
+      <P>Are you a(n)...?</P>
+      <input type="radio" value="Artist"/> Artist
+      <br />
+      <input type="radio" value="Company"/> Company
+      <br />
+      <input type="radio" value="Other"/> Other
+      <input type="text" autofocus/>
+    </form>
+    <form>
+      <p>Comments</p>
+      <p><textarea name="comments" id="test-textarea"> </textarea> </p>
+    </form>
+    <input type="image" src="./images/submit-button.png" alt="submit button image" width="100" height="20" />
   </body>
 </html>
