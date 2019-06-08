@@ -42,19 +42,20 @@
         <th scope="col">Closed</th>
     </table>
     <br />
-    <p>Have a question or a comment?</p>
     <form>
-      <P>Are you a(n)...?</P>
-      <input type="radio" value="Artist"/> Artist
-      <br />
-      <input type="radio" value="Company"/> Company
-      <br />
-      <input type="radio" value="Other"/> Other
-      <input type="text" autofocus/>
-    </form>
-    <form>
-      <p>Comments</p>
-      <p><textarea name="comments" id="test-textarea"> </textarea> </p>
+      <fieldset>
+        <legend>Have a comment or question?</legend>
+        <P>Are you a(n)...?</P>
+        <input type="radio" value="Artist"/> Artist
+        <br />
+        <input type="radio" value="Company"/> Company
+        <br />
+        <input type="radio" value="Other" /> Other
+        <input type="text" placeholder="Producer"/>
+        <br />
+        <p>Comments or Questions</p>
+        <textarea name="name" rows="8" cols="80"></textarea>
+      </fieldset>
     </form>
     <input type="submit" name="Submit" value="Submit" />
   </body>
